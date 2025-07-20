@@ -10,7 +10,7 @@
       width: 200px;
       height: 60px;
       background: blue;
-      border-radius: 10px;
+      border-radius: 10px; b
       margin: 100px auto;
     }
 
